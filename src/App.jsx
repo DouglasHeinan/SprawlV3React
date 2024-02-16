@@ -9,7 +9,7 @@ import ScoreSheet from "./features/scoreSheet/ScoreSheet";
 import Users from "./features/users/Users";
 
 function App() {
-
+  
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
